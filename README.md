@@ -1,2 +1,2 @@
 # RS_school
-* Text readme at main of RS_school
+* Text readme at gh-pages of RS_school
